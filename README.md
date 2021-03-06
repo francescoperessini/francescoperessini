@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 📚 Computer Science and Engineering student | Politecnico di Milano <br>
-🔭 Intern @Moxoff
 
 <!--
 **francescoperessini/francescoperessini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
