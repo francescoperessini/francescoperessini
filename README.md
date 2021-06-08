@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-📚 M.Sc. Graduate in Computer Science and Engineering @Politecnico di Milano <br>
+🔭 Junior Data Engineer @ Quantyca - Data at Core
+
+📚 M.Sc. Graduate in Computer Science and Engineering @ Politecnico di Milano <br>
 
 <!--
 **francescoperessini/francescoperessini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
