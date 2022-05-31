@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Junior Data Engineer @ Quantyca - Data at Core
+🔭 Data Engineer @ Quantyca - Data at Core
 
 📚 M.Sc. Graduate in Computer Science and Engineering @ Politecnico di Milano <br>
 
